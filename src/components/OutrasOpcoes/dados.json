@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "titulo": "Macarrão de forno",
+    "preco": "25",
+    "imagem": "https://i.ibb.co/hfwTQ3q/op-1.png"
+  },
+  {
+    "id": 2,
+    "titulo": "Lasanha de frango",
+    "preco": "30",
+    "imagem": "https://i.ibb.co/n08Bcxq/op-2.png"
+  },
+  {
+    "id": 3,
+    "titulo": "Picanha de forno",
+    "preco": "45",
+    "imagem": "https://i.ibb.co/SywZgTq/op-3.png"
+  },
+  {
+    "id": 4,
+    "titulo": "Sopa de batata",
+    "preco": "23",
+    "imagem": "https://i.ibb.co/dQk3mWw/op-4.png"
+  }
+]
